@@ -1,8 +1,8 @@
 # Dynamic Web Scraping using Python and Selenium
 
-This Web Scraping project has been made for experimental purpose only.
+## This Web Scraping project has been made for experimental purpose only.
 
-Both .py scripts have been designed to scrape Welcome To The Jungle & Indeed websites using Python and Selenium WebDriver.
+The .py scripts have been designed to scrape Indeed websites using Python and Selenium WebDriver.
 
 The following filters have been applied: 
 
